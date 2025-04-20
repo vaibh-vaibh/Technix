@@ -1,77 +1,41 @@
-<<<<<<< HEAD
-# Technix
-=======
-# Welcome to your Lovable project
+#Technix CRM Clone
+This is a Technix CRM Clone built using TailwindCSS and TypeScript. It is a customer relationship management (CRM) application where users can manage their leads, customers, and interactions effectively.
+##Features
+Responsive Design: Built using TailwindCSS for a responsive and modern UI.
+TypeScript: Ensures type safety and better development experience.
+User Authentication: Add functionality to login/signup users 
 
-## Project info
+###TechStack
+Frontend:
+React
+TailwindCSS (for styling)
+TypeScript
 
-**URL**: https://lovable.dev/projects/05253d3b-c54b-4507-a9e8-d43058f0fcef
+Setup & Installation
+Prerequisites
+Node.js (v14.x or higher)
+npm or yarn
 
-## How can I edit this code?
+Installation Steps
+Clone the repository:
+git clone https://github.com/vaibh-vaibh/Technix.git
 
-There are several ways of editing your application.
+Navigate into the project directory:
+cd Technix
 
-**Use Lovable**
+Install dependencies:
+npm install
+# or
+yarn install
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/05253d3b-c54b-4507-a9e8-d43058f0fcef) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Run the project:
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+Open the app in your browser:
+http://localhost:5183
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Contributing
+Feel free to fork this project, submit issues, and send pull requests. Contributions are welcome!
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/05253d3b-c54b-4507-a9e8-d43058f0fcef) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
->>>>>>> e2f428a (Initial Added)
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
