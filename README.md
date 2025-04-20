@@ -1,11 +1,16 @@
 #Technix CRM Clone
+URL:- [https://technixcrm.netlify.app/](url)
+
 This is a Technix CRM Clone built using TailwindCSS and TypeScript. It is a customer relationship management (CRM) application where users can manage their leads, customers, and interactions effectively.
+
 ##Features
+
 Responsive Design: Built using TailwindCSS for a responsive and modern UI.
 TypeScript: Ensures type safety and better development experience.
 User Authentication: Add functionality to login/signup users 
 
 ###TechStack
+
 Frontend:
 React
 TailwindCSS (for styling)
